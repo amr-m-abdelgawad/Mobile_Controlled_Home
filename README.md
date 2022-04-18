@@ -9,4 +9,4 @@ Two subsystems are implemented:
  - light on/off that could be controlled also by the mobile phone.
 
 > The system supports 10 users with different names and password.
-In case of entering the name or the password 3 times wrong, the system give alarm.
+> In case of entering the name or the password 3 times wrong, the system give alarm.
